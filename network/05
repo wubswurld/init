@@ -1,1 +1,0 @@
-host slash16.org | awk '/has address/ { print $4 }'
