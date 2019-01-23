@@ -1,1 +1,0 @@
-pkgutil --pkgs | less
