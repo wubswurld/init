@@ -1,0 +1,1 @@
+The RSA keys of systems authorized to connect via ssh are stored in /etc/ssh/ssh_host_rsa_key

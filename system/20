@@ -1,0 +1,1 @@
+getent passwd | awk -F: '{print$1}'

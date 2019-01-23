@@ -1,0 +1,1 @@
+To connect as a new user on linux you must create a new user, give them ssh/admin permissions, create ssh keys,, edit the /etc/ssh/sshd_config file and reload the server   
