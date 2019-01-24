@@ -18,6 +18,7 @@ count=${#chars[@]}
 colorcount=${#colors[@]}
 
 trap "tput sgr0; clear; exit" SIGTERM SIGINT
+trap "" SIGTSTP
 
 if [[ $1 =~ '-h' ]]; then
 	echo "Display a Matrix(ish) screen in the terminal"
