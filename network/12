@@ -1,0 +1,1 @@
+dig slash16.org | awk '/SERVER/{print$3}' | sed 's/#.*//'

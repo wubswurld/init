@@ -1,0 +1,1 @@
+The traceroute command will give you information about the routers it passes through, the first object on this list is the internet gateway and this allows you to link to the rest of the world, the ip of the router is 10.112.254.254.
